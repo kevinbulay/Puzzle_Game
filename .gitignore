@@ -39,6 +39,8 @@ sysinfo.txt
 .DS_Store
 .AppleDouble
 .LSOverride
+.Logs
+.Packages
 
 # Icon must end with two \r
 Icon
