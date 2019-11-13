@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.puzzlegame.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\3D-Student\\Desktop\\kbulay repos\\Puzzle_Game\\PuzzleGame\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "PuzzleGame [Testing]"
+        }
+      }
+    }
+  ]
+}
